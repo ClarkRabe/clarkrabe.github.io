@@ -20,10 +20,16 @@
 ### Design Examples
 
 - [Fraternity Projects](http://example.com/)
-- [Design Booklet](http://example.com/)
-- [Additional Designs](http://example.com/)
-- [Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+- [Design Booklet](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- [Additional Designs](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- [Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 
