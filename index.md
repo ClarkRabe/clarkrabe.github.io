@@ -8,22 +8,21 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Design Booklet](/pdf/sample_presentation.pdf)
+[D&D Game](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Basic Shell](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Design Examples
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Fraternity Projects](http://example.com/)
+- [Design Booklet](http://example.com/)
+- [Additional Designs](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
