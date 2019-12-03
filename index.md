@@ -9,7 +9,7 @@
 
 ---
 [D&D Game](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dndimg.jpg?raw=true"/>
 
 ---
 [Basic Shell](http://example.com/)
