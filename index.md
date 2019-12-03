@@ -5,7 +5,7 @@
 ### Coding Examples
 
 [Centipede Game](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/centipedeGame.jpg?raw=true"/>
 
 ---
 [D&D Game](/pdf/sample_presentation.pdf)
