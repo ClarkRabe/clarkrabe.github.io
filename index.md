@@ -4,7 +4,7 @@
 
 ### Coding Examples
 
-[Centipede Game](/sample_page)
+[Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
 <img src="images/centipedeGame.JPG?raw=true"/>
 
 ---
