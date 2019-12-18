@@ -22,8 +22,8 @@
 - [Fraternity Projects](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Design Booklet](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Design Booklet](/pdf/desn216_final-booklet_120919_v2_CR)
+<img src="images/design_cover.jpg?raw=true"/>
 
 - [Additional Designs](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
