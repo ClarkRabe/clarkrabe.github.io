@@ -8,7 +8,7 @@
 <img src="images/centipedeGame.JPG?raw=true"/>
 
 ---
-[D&D Game](/pdf/sample_presentation.pdf)
+[D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
 <img src="images/dndimg.jpg?raw=true"/>
 
 ---
