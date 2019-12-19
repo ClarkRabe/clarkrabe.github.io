@@ -19,13 +19,13 @@
 
 ### Design Examples
 
-- [Fraternity Projects](https://github.com/ClarkRabe/clarkrabe.github.io/tree/master/Fraternity_Designs)
+- [Fraternity Projects](https://github.com/ClarkRabe/Fraternity_Designs)
 <img src="images/ke_cover.jpg?raw=true"/>
 
 - [Design Booklet](/pdf/desn216_final-booklet_120919_v2_CR.pdf)
 <img src="images/project_cover.jpg?raw=true"/>
 
-- [Misc Designs](/Misc_Designs)
+- [Misc Designs](https://github.com/ClarkRabe/Misc_Designs)
 <img src="images/misc_cover.jpg?raw=true"/>
 
 
