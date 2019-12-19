@@ -19,7 +19,7 @@
 
 ### Design Examples
 
-- [Fraternity Projects](https://github.com/ClarkRabe/clarkrabe.github.io/Fraternity_Designs)
+- [Fraternity Projects](https://github.com/ClarkRabe/clarkrabe.github.io/tree/master/Fraternity_Designs)
 <img src="images/ke_cover.jpg?raw=true"/>
 
 - [Design Booklet](/pdf/desn216_final-booklet_120919_v2_CR.pdf)
