@@ -20,17 +20,13 @@
 ### Design Examples
 
 - [Fraternity Projects](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ke_cover.jpg?raw=true"/>
 
 - [Design Booklet](/pdf/desn216_final-booklet_120919_v2_CR.pdf)
-<img src="images/design_cover.jpg?raw=true"/>
+<img src="images/project_cover.jpg?raw=true"/>
 
-- [Additional Designs](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-- [Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
----
+- [Misc Designs](http://example.com/)
+<img src="images/misc_cover.jpg?raw=true"/>
 
 
 
