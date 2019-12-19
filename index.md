@@ -4,15 +4,15 @@
 
 ### Coding Examples
 
-[Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
+- [Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
 <img src="images/centipedeGame.JPG?raw=true"/>
 
 ---
-[D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
+- [D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
 <img src="images/dndimg.jpg?raw=true"/>
 
 ---
-[Basic Shell](https://github.com/ClarkRabe/Basic_Shell)
+- [Basic Shell](https://github.com/ClarkRabe/Basic_Shell)
 <img src="images/shellimg.jpg?raw=true"/>
 
 ---
