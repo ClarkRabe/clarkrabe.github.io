@@ -1,4 +1,6 @@
-## Clark Rabe's Portfolio
+## Clark's Portfolio!
+
+<img src ="images/me.jpg?raw=true">
 
 ---
 
