@@ -5,7 +5,7 @@
 ### Coding Examples
 
 - [Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
-<img src="images/centipedeGame.JPG?raw=true"/>
+<img src="images/centipedeGame.JPG?raw=true" height="50" width="50"/>
 
 ---
 - [D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
