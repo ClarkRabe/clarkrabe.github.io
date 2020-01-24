@@ -3,8 +3,9 @@
 ---
 
 ### Coding Examples
-
-- [Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
+<p style = "font-family:Candara;">
+[Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
+</p>
 <img src="images/centipedeGame.JPG?raw=true" height="200" width="200"/>
 
 ---
