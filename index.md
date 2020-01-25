@@ -7,7 +7,7 @@
 ---
 
 - [Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
-<img src="images/centipedeGame.JPG?raw=true" height="200" width="200" align="middle"/>
+<img src="images/centipedeGame.JPG?raw=true" height="200" width="200" align="right"/>
 
 ---
 - [D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
