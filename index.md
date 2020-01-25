@@ -6,7 +6,7 @@
 <p align="middle"><img src="images/centipede.jpg?raw=true" height="200" width="200"/></p>
 ---
 <h3><p align="middle"><a href="https://github.com/ClarkRabe/Dungeon-Game"><font color="black">D&D Game</font></a></p></h3>
-<p align="middle"><img src="images/dndimg.jpg?raw=true" height="200" width="200"/></p>
+<p align="middle"><img src="images/dnd.jpg?raw=true" height="200" width="200"/></p>
 ---
 <h3><p align="middle"><a href="https://github.com/ClarkRabe/Basic_Shell"><font color="black">Linux Shell</font></a></p></h3>
 <p align="middle"><img src="images/shellimg.jpg?raw=true" height="200" width="200"/></p>
