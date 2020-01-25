@@ -1,6 +1,4 @@
-## Clark's Portfolio!
-
-<img src ="images/me.jpg?raw=true">
+## Take a look at some of my work!
 
 ---
 
@@ -9,7 +7,7 @@
 ---
 
 - [Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
-<img src="images/centipedeGame.JPG?raw=true" height="200" width="200"/>
+<img style='border:1px solid #000000' src="images/centipedeGame.JPG?raw=true" height="200" width="200"/>
 
 ---
 - [D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
