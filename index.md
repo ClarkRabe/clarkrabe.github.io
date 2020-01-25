@@ -2,4 +2,4 @@
 ---
 
 
-<h2><font color="black"><a href="https://github.com/ClarkRabe/Centipede-Game">The Centipede Game</a></font></h2>>
+<h2><a href="https://github.com/ClarkRabe/Centipede-Game">The Centipede Game</a></h2>>
