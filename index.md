@@ -5,13 +5,12 @@
 ### Coding Examples
 
 ---
-<img src="images/centipedeGame.JPG?raw=true" height="200" width="200" align="left"/>
-<br>
 [Centipede Game](https://github.com/ClarkRabe/Centipede-Game)
+<img src="images/centipedeGame.JPG?raw=true" height="200" width="200" border="5"/>
 [D&D Game](https://github.com/ClarkRabe/Dungeon-Game)
-<img src="images/dndimg.jpg?raw=true" height="200" width="200" align="middle"/>
+<img src="images/dndimg.jpg?raw=true" height="200" width="200"/>
 [Basic Shell](https://github.com/ClarkRabe/Basic_Shell)
-<img src="images/shellimg.jpg?raw=true" height="200" width="200" align="right"/>
+<img src="images/shellimg.jpg?raw=true" height="200" width="200"/>
 
 ---
 
