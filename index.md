@@ -21,5 +21,5 @@
 <p align="middle"><img src="images/project_cover.jpg?raw=true" height="200" width="200"/></p>
 ---
 <h3><p align="middle"><a href="https://github.com/ClarkRabe/Misc_Designs"><font color="black">Miscellaneous Designs</font></a></p></h3>
-<p align="middle"><img src="images/ke_cover.jpg?raw=true" height="200" width="200"/></p>
+<p align="middle"><img src="images/misc_cover.jpg?raw=true" height="200" width="200"/></p>
 ---
