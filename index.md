@@ -14,6 +14,9 @@
 <hr size="5" color="black">
 <h2><p align="middle"><font color="black"><u>Design</u></font></p></h2>
 <hr size="5" color="black">
+<h3><p align="middle"><a href="https://www.figma.com/file/e2MJtm1JV79JrMiHWCjE00/ClarkRabe_UI_Kit?node-id=0%3A1"><font color="black">UX/UI</font></a></p></h3>
+<p align="middle"><img src="images/misc_cover.jpg?raw=true" height="200" width="200"/></p>
+---
 <h3><p align="middle"><a href="https://github.com/ClarkRabe/Fraternity_Designs"><font color="black">Kappa Sigma</font></a></p></h3>
 <p align="middle"><img src="images/ke_cover.jpg?raw=true" height="200" width="200"/></p>
 ---
@@ -23,3 +26,4 @@
 <h3><p align="middle"><a href="https://github.com/ClarkRabe/Misc_Designs"><font color="black">Miscellaneous Designs</font></a></p></h3>
 <p align="middle"><img src="images/misc_cover.jpg?raw=true" height="200" width="200"/></p>
 ---
+
