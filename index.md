@@ -14,7 +14,7 @@
 <hr size="5" color="black">
 <h2><p align="middle"><font color="black"><u>Design</u></font></p></h2>
 <hr size="5" color="black">
-<h3><p align="middle"><a href="https://www.figma.com/file/e2MJtm1JV79JrMiHWCjE00/ClarkRabe_UI_Kit?node-id=0%3A1"><font color="black">UX/UI</font></a></p></h3>
+<h3><p align="middle"><a href="https://xd.adobe.com/view/b4d9e7da-5a6c-474a-b08f-f75c71fa5371-e18a/"><font color="black">UX/UI</font></a></p></h3>
 <p align="middle"><img src="images/ux_ui_cover.jpg?raw=true" height="200" width="200"/></p>
 ---
 <h3><p align="middle"><a href="https://github.com/ClarkRabe/Fraternity_Designs"><font color="black">Kappa Sigma</font></a></p></h3>
