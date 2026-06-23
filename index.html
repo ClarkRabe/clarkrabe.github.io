@@ -19,7 +19,7 @@
       --bg2: #1E1E1E;
       --ink: #F0EDE8;
       --ink-muted: #777;
-      --pink: #FF1A5E;
+      --pink: #04FF00;
       --pink-dim: rgba(4,255,0,0.12);
       --border: #2C2C2C;
       --mono: 'Space Mono', monospace;
@@ -103,8 +103,8 @@
         0deg,
         transparent,
         transparent 3px,
-        rgba(255,26,94,0.015) 3px,
-        rgba(255,26,94,0.015) 4px
+        rgba(4,255,0,0.015) 3px,
+        rgba(4,255,0,0.015) 4px
       );
     }
 
@@ -142,7 +142,7 @@
       pointer-events: none;
     }
     .hero-name .last::before {
-      color: rgba(255,26,94,0.3);
+      color: rgba(4,255,0,0.3);
       -webkit-text-stroke: 0;
       animation: glitch1 4s infinite;
       clip-path: polygon(0 20%, 100% 20%, 100% 40%, 0 40%);
@@ -207,7 +207,7 @@
     .btn-pink {
       background: var(--pink); color: #000;
     }
-    .btn-pink:hover { background: #FF4D84; }
+    .btn-pink:hover { background: #4DFF4D; }
     .btn-outline {
       background: transparent; color: var(--ink);
       border: 1px solid var(--border);
@@ -757,7 +757,7 @@
   <div class="tweaks-title">Tweaks</div>
   <div class="tweak-row">
     <label>Accent Color</label>
-    <input type="color" id="tweak-color" value="#FF1A5E" />
+    <input type="color" id="tweak-color" value="#04FF00" />
   </div>
   <div class="tweak-row">
     <label>Glitch Effect</label>
@@ -815,7 +815,7 @@
     const canvas = document.getElementById('bg-canvas');
     const ctx = canvas.getContext('2d');
     let w, h, particles, dpr;
-    const accent = () => getComputedStyle(document.documentElement).getPropertyValue('--pink').trim() || '#FF1A5E';
+    const accent = () => getComputedStyle(document.documentElement).getPropertyValue('--pink').trim() || '#04FF00';
 
     function hexToRgb(hex) {
       const m = hex.replace('#','');
@@ -911,9 +911,9 @@
   <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
     <rect width="120" height="80" fill="#080808"/>
     <rect x="16" y="18" width="48" height="10" rx="1" fill="#F0EDE8"/>
-    <rect x="16" y="32" width="28" height="5" rx="1" fill="#FF1A5E" opacity="0.8"/>
+    <rect x="16" y="32" width="28" height="5" rx="1" fill="#04FF00" opacity="0.8"/>
     <rect x="0" y="50" width="120" height="1" fill="#1C1C1C"/>
-    <rect x="16" y="58" width="20" height="10" rx="0" fill="#FF1A5E"/>
+    <rect x="16" y="58" width="20" height="10" rx="0" fill="#04FF00"/>
     <rect x="40" y="58" width="20" height="10" rx="0" fill="none" stroke="#1C1C1C" stroke-width="1"/>
   </svg>
 </template>
